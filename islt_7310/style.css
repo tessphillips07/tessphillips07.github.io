@@ -1,1 +1,14 @@
-
+h1 {
+    color: #6699cc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+h3 {
+    color:#6699cc;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: #333333;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#paragraph {text-indent: 10px}
+.paragraph {text-indent: 30px}
