@@ -1,0 +1,24 @@
+@font-face {
+    font-family:'Montserrat', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+}
+h1 {
+    color: #6699cc;
+    font-family: montserrat;
+}
+h3 {color:#6699cc} h3 {font-family:Verdana, Geneva, Tahoma, sans-serif}
+p {color: #333333} p {font-family:Verdana, Geneva, Tahoma, sans-serif}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+  }
