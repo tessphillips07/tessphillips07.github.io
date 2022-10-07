@@ -81,3 +81,7 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: white;
 }
+form {
+    font-family: montserrat;
+    padding: 5px;
+}
